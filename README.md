@@ -1,5 +1,5 @@
 # Projeto Jogo 21
-Criar um contrato de ethereum que controla um jogo de 21:
+Criar um contrato de Ethereum que controla um jogo de 21:
 <p>
   <b>Regras:</b><br>
 - O usuário entra com o valor da aposta para iniciar um novo jogo <br>
