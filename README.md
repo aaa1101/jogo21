@@ -16,8 +16,8 @@ Criar um contrato de ethereum que controla um jogo de 21:
 21 pontos => recebe de volta o dobro do valor investido <br>
 <br>
   <b>Aposta:</b><br>
-Minima - 100 wei <br>
-Maxima - 0.001 ether <br>
+Mínima - 100 wei <br>
+Máxima - 0.001 ether <br>
 <br>
   <b>Saldo Inicial do Contrato:</b><br>
 10 ether
